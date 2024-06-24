@@ -3,7 +3,7 @@ body{
 	font-size:15px;
 	font-family: Arial;
 	margin: 20px;
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe4yrLCeFKzilrAmAk5JIigzAByi9j6acYEA&s");
+	background-image: url("https://media.istockphoto.com/id/513056418/photo/coffee-beans.jpg?s=612x612&w=0&k=20&c=Ecf1UBS8AbVZbmaD_xg35SAuGqMazKLF6LG6FPkjQj4=");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -11,10 +11,10 @@ body{
 }
 
 .menu{
-	border-width:25px;
+	width:500px;
 	font-size:15px;
 	font-family: Arial;
-	margin: 20px;
+	margin: auto;
 	padding:30px;
-	background-color: yellow;	
+	background-color: #ddb886;	
 }
