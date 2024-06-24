@@ -18,3 +18,35 @@ body{
 	padding:30px;
 	background-color: #ddb886;	
 }
+h1{
+	font-family: Arial Black;
+	margin: auto;
+}
+
+h2{
+	font-family: Arial Black;
+	margin-bottom: 20px;
+	margin-top:0px;
+	text-align:center;
+}
+
+main {
+  width: 500px;
+  margin: auto;
+  padding: 30px;
+  background-color: #ddb886;
+}
+
+article p {
+  margin: 0px;
+}
+
+.price {
+	margin: 450px;
+	margin-top:auto;
+	font-weight: bold;
+}
+footer{
+	margin: auto;
+	text-align: center;
+}
